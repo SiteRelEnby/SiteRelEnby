@@ -1,6 +1,7 @@
 # Plurality
 
-*Content Warning: this page discusses formation trauma as a concept, as well as brief mentions of the concepts of medicalisation, pathologisation, fusion, and syscourse-related topics, through an inclusive, pro-endo, and anti-syscourse lens. If none of this means anything to you, it's likely fine, and you should read on.*
+> [!NOTE]
+> Content Warning: This page discusses formation trauma as a concept, as well as brief mentions of the concepts of medicalisation, pathologisation, fusion, and syscourse-related topics, through an inclusive, pro-endo, and anti-syscourse lens. There will be no spoiler tags or further warnings. This warning is mostly intended for other systems - if none of this means anything to you, it's almost certainly fine, and you should read on.
 
 Plurality is, in short, the state of having multiple beings sharing the same body. Terminology is never universal, but this state is most commonly referred to as being a **system**, and individual system members may be commonly referred to as **headmates**, although not everyone who is plural identifies with these labels. The opposite of plurality is the state of being a **singlet**, although this itself can still be a spectrum.[^1] This page will not attempt to explain all elements of plurality in depth, or it would become a textbook; it is intended to serve as a starting point for further reading.
 
