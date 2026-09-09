@@ -4,7 +4,7 @@
 
 No.
 
-### Can I ask you a question?
+## Can I ask you a question?
 
 Of course. If you've got this far into our profile repo you probably have a good idea of what will be a good question and what you can just research. We enjoy engaging with people about plurality overall.
 
