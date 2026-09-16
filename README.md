@@ -48,6 +48,7 @@ Git is one of the most widely used pieces of software in the world. We build the
 
 ### Misc
 
+- [dhcpguard](https://github.com/SiteRelEnby/dhcpguard) - Prevents untrusted networks from setting a DHCP search domain, because at some point someone really didn't think through the security implications of allowing that, and at this point it's baked into so much stuff as an assumption it'll probably never be fixed properly.
 - [fjortoft](https://github.com/SiteRelEnby/fjortoft) - Global Consciousness Project network coherence and [corru.observer](https://corru.observer) GAD poller, Discord bot, and Grafana dashboard.
 - [gfx1103-pytorch-rocm](https://github.com/SiteRelEnby/gfx1103-pytorch-rocm) - PyTorch from source with native Radeon 780M ROCm support, until upstream catches up.
 
